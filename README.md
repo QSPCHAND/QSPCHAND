@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chandra Sekhar jena</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C5612AQEH40J1YfXKCw/article-cover_image-shrink_600_2000/0/1530798575533?e=2147483647&v=beta&t=sqnSWevZdABdb_0dIgwYKN8oqfPm-VBwr-EU5wiuAFE">
+<img align="right" alt="Coding" width="1000" src="[https://media.licdn.com/dms/image/C5612AQEH40J1YfXKCw/article-cover_image-shrink_600_2000/0/1530798575533?e=2147483647&v=beta&t=sqnSWevZdABdb_0dIgwYKN8oqfPm-VBwr-EU5wiuAFE](https://i.pinimg.com/736x/a2/d7/c0/a2d7c02d11fb7517f5875fcf22141805.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qspchand&label=Profile%20views&color=0e75b6&style=flat" alt="qspchand" /> </p>
 
